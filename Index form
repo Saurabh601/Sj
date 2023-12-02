@@ -1,0 +1,89 @@
+<!DOUCTYPE>
+<html>
+<head>
+
+<title>  monster form </title>
+
+<head>
+
+<body text="red" bgcolor="black">
+
+<pre>   </pre>
+<pre>    
+
+
+
+
+</pre>
+
+<div align="center">
+
+<img src="https://i.postimg.cc/sXfNWxty/1200px-Logo-Monster-svg.png"
+height="200" width="600">
+</div>
+
+<pre> 
+
+
+
+
+
+
+
+  
+</pre>
+<form>
+<h1>
+
+<p style="font-size:50px;">
+Gnder:
+<input type="radio" name="gender" value="male">Male
+<input type="radio" name="gender" value="female">Female
+<br>
+<br>
+Name:<input type="text" size="50">
+<br>
+<br>
+D.O.B:<input type="date" size="50">
+<br>
+<br>
+Address:<input type="text" size="70">
+<br>
+<br>
+Email:<input type="email" size="50">
+<br>
+<br>
+favorite color:<input type="color" size="30">
+<br>
+<br>
+Joining time:<input type="time" size="40">
+<br>
+<br>
+
+<div align="center">
+
+<button>
+<p style="font-size:40x;">
+<a href="https://i.postimg.cc/02Rg9dyT/images.jpg" width="50%">submit/login</a>
+</p>
+</button>
+
+</div>
+
+
+
+</h1>
+</form>
+
+
+</p>
+
+
+</body>
+
+
+
+
+
+
+</html>
